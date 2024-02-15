@@ -1,6 +1,7 @@
 body {
   font-family: 'Times New Roman', Times, serif;
   line-height: 1.5;
+  padding-left: 20px;
 }
 
 h1,
@@ -17,6 +18,9 @@ ul,
 ol {
   margin: 0;
   padding: 0;
+}
+a {
+  text-decoration: none;
 }
 
 img {
